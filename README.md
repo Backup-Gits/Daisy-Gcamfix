@@ -7,3 +7,5 @@ adds missing libs from stock rom to enable Camera 2 api
 - Dot OS 3.1
 - AEX
 - Pixel exp.
+### Download Google camera:
+https://www.celsoazevedo.com/files/android/google-camera/
